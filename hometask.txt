@@ -1,0 +1,5 @@
+Ветка master(local) происходит от веток origin/hat и boots_buttons(local).
+Ветка origin/hat происходит от ветки origin/master.
+Ветка boots_buttons(local) происходит от одноимённой ветки, которая
+происходит от веток origin/boots и origin/master, и ветки origin/buttons.
+Ветка origin/demo происходит от ветки origin/boots.
