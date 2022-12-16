@@ -3,3 +3,14 @@
 Ветка boots_buttons(local) происходит от одноимённой ветки, которая
 происходит от веток origin/boots и origin/master, и ветки origin/buttons.
 Ветка origin/demo происходит от ветки origin/boots.
+
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
